@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizfury
-- 👀 I’m interested in Python, java, c, c++, flask
-- 🌱 I’m currently learning flask
+- 👀 I’m interested in Python, java, c, c++, flask,Android
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aakarsh135@gmail.com
 
