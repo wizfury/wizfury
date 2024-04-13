@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wizfury
-- 👀 I’m interested in Python, java, c, c++, flask, Android, flutter and Google cloud.
-- 🌱 I’m currently learning Flutter,Firebase & google cloud.
-- 💞️ I’m looking to collaborate on Android studio projects, flutter projects, cloud projects.
+- 👀 I’m interested in AI/ML, flutter, and Google Cloud.
+- 🌱 I’m currently learning Flutter, Firebase & Google Cloud, and Machine Learning.
+- 💞️ I’m looking to collaborate on ML\AI , flutter projects, and cloud projects.
 - 📫 How to reach me aakarsh135@gmail.com
 
 <!---
