@@ -59,6 +59,21 @@
 <a href="https://kaggle.com/https://www.kaggle.com/aakarsh135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aakarsh135" height="30" width="40" /></a>
 </p>
 
+ 
+
+
+<p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bn14x1agbg2s35rmdjqxglzls&unique=yes" alt="Alt text" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
+
+
+
+
+
+ 
+
+
+
 <!---
 wizfury/wizfury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
