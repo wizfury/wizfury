@@ -62,9 +62,7 @@
  
 
 
-<p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bn14x1agbg2s35rmdjqxglzls&unique=yes" alt="Alt text" style="display: block; margin-left: auto; margin-right: auto;">
-</p>
+
 
 
 
