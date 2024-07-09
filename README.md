@@ -5,7 +5,7 @@
 - 🌱 Currently working on **Flutter, Firebase & Google Cloud, and Machine Learning**
 - 🔭 Looking to collaborate on **Deep Learning projects**
 - 📫 How to reach me **aakarsh135@gmail.com**
-- 📄 Here's more about my work experience in boring Arial font 😉 [(Resume)](https://drive.google.com/file/d/1jULLfdUE-reeLUOp9m434XVQitWV_0mT/view?usp=sharing)
+- 📄 Here's more about my work experience in boring Arial font 😉 [(Resume)](https://drive.google.com/file/d/151TGizuxYwnnVMRlznHHqg9deiEUkcOZ/view?usp=sharing)
 
 
 
